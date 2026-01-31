@@ -1,4 +1,4 @@
-# African-klebsiella-amr-ml-dataset
+# African-klebsiella-AMR-ML-Dataset
 ML-ready antimicrobial resistance (AMR) dataset derived from African Klebsiella pneumoniae genomes, curated for machine learning and benchmarking.
 # African Klebsiella pneumoniae AMR ML Dataset
 
