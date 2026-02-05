@@ -1,0 +1,5 @@
+accession,organism,country,host,isolation_source,collection_date,assembly_level,AMR_GENE_001,AMR_GENE_002
+GCF_015208935.1,Klebsiella pneumoniae,South Africa,Homo sapiens,rectal swab,2019-02-19,Contig,1,1
+GCF_037628145.1,Klebsiella pneumoniae,Kenya,Homo sapiens,urine,2022-06-28,Contig,1,1
+GCF_037628325.1,Klebsiella pneumoniae,Kenya,Homo sapiens,Wound/skin swab,2021-11-02,Contig,1,1
+GCF_037629155.1,Klebsiella pneumoniae,Kenya,Homo sapiens,urine,2020-03-18,Contig,1,1
